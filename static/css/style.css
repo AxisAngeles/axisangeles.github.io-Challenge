@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+}
+
+.paragraph{
+    
+    background-color: whitesmoke;
+    /* margin: 1em; */
+}
+
+.jumbotron {
+    color: #f5f5f5;
+    background-image: url("../images/bacteria.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+/* button {
+    text-align: center;
+} */
